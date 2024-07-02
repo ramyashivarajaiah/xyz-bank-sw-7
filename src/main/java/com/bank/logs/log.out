@@ -1,0 +1,63 @@
+2024-07-02 20:07:841 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 20:07:588 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 20:07:625 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 20:07:715 INFO  CustomerLoginPage :18 - click on customer[[ChromeDriver: chrome on windows (d677c20cc0e85ba1b61ad5966c339bf6)] -> xpath: //button[contains(text(),'Customer Login')]]
+2024-07-02 20:07:251 INFO  CustomerLoginPage :28 - search customer[[ChromeDriver: chrome on windows (d677c20cc0e85ba1b61ad5966c339bf6)] -> xpath: //select[@id='userSelect']]
+2024-07-02 20:07:347 INFO  CustomerLoginPage :38 - click on login [[ChromeDriver: chrome on windows (d677c20cc0e85ba1b61ad5966c339bf6)] -> xpath: //button[contains(text(),'Login')]]
+2024-07-02 20:07:844 INFO  AccountPage :34 - click on deoposit[[ChromeDriver: chrome on windows (d677c20cc0e85ba1b61ad5966c339bf6)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 20:07:389 INFO  AccountPage :40 - click on deoposit[[ChromeDriver: chrome on windows (d677c20cc0e85ba1b61ad5966c339bf6)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 20:07:496 INFO  AccountPage :46 - click on deoposit[[ChromeDriver: chrome on windows (d677c20cc0e85ba1b61ad5966c339bf6)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 20:07:535 INFO  AccountPage :84 - verify transaction [[ChromeDriver: chrome on windows (d677c20cc0e85ba1b61ad5966c339bf6)] -> xpath: //span[contains(text(),'Deposit Successful')]]
+2024-07-02 20:07:55 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 20:07:884 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 20:07:813 INFO  CustomerLoginPage :18 - click on customer[[ChromeDriver: chrome on windows (ad3face9eb87ceb359ae6e88bb73cb30)] -> xpath: //button[contains(text(),'Customer Login')]]
+2024-07-02 20:07:434 INFO  CustomerLoginPage :28 - search customer[[ChromeDriver: chrome on windows (ad3face9eb87ceb359ae6e88bb73cb30)] -> xpath: //select[@id='userSelect']]
+2024-07-02 20:07:537 INFO  CustomerLoginPage :38 - click on login [[ChromeDriver: chrome on windows (ad3face9eb87ceb359ae6e88bb73cb30)] -> xpath: //button[contains(text(),'Login')]]
+2024-07-02 20:07:571 INFO  CustomerLoginPage :47 - verify logout [[ChromeDriver: chrome on windows (ad3face9eb87ceb359ae6e88bb73cb30)] -> xpath: //button[contains(text(),'Logout')]]
+2024-07-02 20:07:128 INFO  CustomerLoginPage :58 - click on logout [[ChromeDriver: chrome on windows (ad3face9eb87ceb359ae6e88bb73cb30)] -> xpath: //button[contains(text(),'Logout')]]
+2024-07-02 20:07:186 INFO  CustomerLoginPage :68 - verify name [[ChromeDriver: chrome on windows (ad3face9eb87ceb359ae6e88bb73cb30)] -> xpath: //label[contains(text(),'Your Name :')]]
+2024-07-02 21:07:377 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 21:07:375 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 21:07:283 INFO  CustomerLoginPage :18 - click on customer[[ChromeDriver: chrome on windows (88e6d400751469e9499844eaaf04d37e)] -> xpath: //button[contains(text(),'Customer Login')]]
+2024-07-02 21:07:827 INFO  CustomerLoginPage :28 - search customer[[ChromeDriver: chrome on windows (88e6d400751469e9499844eaaf04d37e)] -> xpath: //select[@id='userSelect']]
+2024-07-02 21:07:934 INFO  CustomerLoginPage :38 - click on login [[ChromeDriver: chrome on windows (88e6d400751469e9499844eaaf04d37e)] -> xpath: //button[contains(text(),'Login')]]
+2024-07-02 21:07:976 INFO  CustomerLoginPage :47 - verify logout [[ChromeDriver: chrome on windows (88e6d400751469e9499844eaaf04d37e)] -> xpath: //button[contains(text(),'Logout')]]
+2024-07-02 21:07:410 INFO  CustomerLoginPage :58 - click on logout [[ChromeDriver: chrome on windows (88e6d400751469e9499844eaaf04d37e)] -> xpath: //button[contains(text(),'Logout')]]
+2024-07-02 21:07:472 INFO  CustomerLoginPage :68 - verify name [[ChromeDriver: chrome on windows (88e6d400751469e9499844eaaf04d37e)] -> xpath: //label[contains(text(),'Your Name :')]]
+2024-07-02 21:07:871 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 21:07:892 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 21:07:181 INFO  CustomerLoginPage :18 - click on customer[[ChromeDriver: chrome on windows (c9d2de34eabe56f5a42a5562656f37c0)] -> xpath: //button[contains(text(),'Customer Login')]]
+2024-07-02 21:07:753 INFO  CustomerLoginPage :28 - search customer[[ChromeDriver: chrome on windows (c9d2de34eabe56f5a42a5562656f37c0)] -> xpath: //select[@id='userSelect']]
+2024-07-02 21:07:837 INFO  CustomerLoginPage :38 - click on login [[ChromeDriver: chrome on windows (c9d2de34eabe56f5a42a5562656f37c0)] -> xpath: //button[contains(text(),'Login')]]
+2024-07-02 21:07:302 INFO  AccountPage :34 - click on deoposit[[ChromeDriver: chrome on windows (c9d2de34eabe56f5a42a5562656f37c0)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:816 INFO  AccountPage :40 - click on deoposit[[ChromeDriver: chrome on windows (c9d2de34eabe56f5a42a5562656f37c0)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:925 INFO  AccountPage :46 - click on deoposit[[ChromeDriver: chrome on windows (c9d2de34eabe56f5a42a5562656f37c0)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:963 INFO  AccountPage :84 - verify transaction [[ChromeDriver: chrome on windows (c9d2de34eabe56f5a42a5562656f37c0)] -> xpath: //span[contains(text(),'Deposit Successful')]]
+2024-07-02 21:07:531 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 21:07:726 INFO  BankManagerLoginPage :18 - click on login [[ChromeDriver: chrome on windows (62f4b795ec6ec74501caaefed77db5d6)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2024-07-02 21:07:180 INFO  OpenAccountPage :31 - click on open account[[ChromeDriver: chrome on windows (62f4b795ec6ec74501caaefed77db5d6)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[1]/button[2]]
+2024-07-02 21:07:718 INFO  OpenAccountPage :37 - Select customer[[ChromeDriver: chrome on windows (62f4b795ec6ec74501caaefed77db5d6)] -> id: userSelect]
+2024-07-02 21:07:855 INFO  OpenAccountPage :43 - Select currency[[ChromeDriver: chrome on windows (62f4b795ec6ec74501caaefed77db5d6)] -> id: currency]
+2024-07-02 21:07:947 INFO  OpenAccountPage :49 - click on button [[ChromeDriver: chrome on windows (62f4b795ec6ec74501caaefed77db5d6)] -> xpath: //button[contains(text(),'Process')]]
+2024-07-02 21:07:908 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 21:07:860 INFO  CustomerLoginPage :18 - click on customer[[ChromeDriver: chrome on windows (00a152e59861175797df7ba6c9820858)] -> xpath: //button[contains(text(),'Customer Login')]]
+2024-07-02 21:07:413 INFO  CustomerLoginPage :28 - search customer[[ChromeDriver: chrome on windows (00a152e59861175797df7ba6c9820858)] -> xpath: //select[@id='userSelect']]
+2024-07-02 21:07:518 INFO  CustomerLoginPage :38 - click on login [[ChromeDriver: chrome on windows (00a152e59861175797df7ba6c9820858)] -> xpath: //button[contains(text(),'Login')]]
+2024-07-02 21:07:999 INFO  AccountPage :34 - click on deoposit[[ChromeDriver: chrome on windows (00a152e59861175797df7ba6c9820858)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:495 INFO  AccountPage :40 - click on deoposit[[ChromeDriver: chrome on windows (00a152e59861175797df7ba6c9820858)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:607 INFO  AccountPage :46 - click on deoposit[[ChromeDriver: chrome on windows (00a152e59861175797df7ba6c9820858)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:644 INFO  AccountPage :84 - verify transaction [[ChromeDriver: chrome on windows (00a152e59861175797df7ba6c9820858)] -> xpath: //span[contains(text(),'Deposit Successful')]]
+2024-07-02 21:07:589 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 21:07:484 INFO  BankManagerLoginPage :18 - click on login [[ChromeDriver: chrome on windows (a24e00b1dfbc69b675ed6a1c4d66c8e0)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2024-07-02 21:07:30 INFO  OpenAccountPage :31 - click on open account[[ChromeDriver: chrome on windows (a24e00b1dfbc69b675ed6a1c4d66c8e0)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[1]/button[2]]
+2024-07-02 21:07:693 INFO  OpenAccountPage :37 - Select customer[[ChromeDriver: chrome on windows (a24e00b1dfbc69b675ed6a1c4d66c8e0)] -> id: userSelect]
+2024-07-02 21:07:835 INFO  OpenAccountPage :43 - Select currency[[ChromeDriver: chrome on windows (a24e00b1dfbc69b675ed6a1c4d66c8e0)] -> id: currency]
+2024-07-02 21:07:919 INFO  OpenAccountPage :49 - click on button [[ChromeDriver: chrome on windows (a24e00b1dfbc69b675ed6a1c4d66c8e0)] -> xpath: //button[contains(text(),'Process')]]
+2024-07-02 21:07:917 INFO  ManageBrowser :30 - Chrome Browser Launch.....
+2024-07-02 21:07:137 INFO  CustomerLoginPage :18 - click on customer[[ChromeDriver: chrome on windows (6fbce10442658792b1af8e7d12a59ead)] -> xpath: //button[contains(text(),'Customer Login')]]
+2024-07-02 21:07:712 INFO  CustomerLoginPage :28 - search customer[[ChromeDriver: chrome on windows (6fbce10442658792b1af8e7d12a59ead)] -> xpath: //select[@id='userSelect']]
+2024-07-02 21:07:835 INFO  CustomerLoginPage :38 - click on login [[ChromeDriver: chrome on windows (6fbce10442658792b1af8e7d12a59ead)] -> xpath: //button[contains(text(),'Login')]]
+2024-07-02 21:07:397 INFO  AccountPage :34 - click on deoposit[[ChromeDriver: chrome on windows (6fbce10442658792b1af8e7d12a59ead)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:966 INFO  AccountPage :40 - click on deoposit[[ChromeDriver: chrome on windows (6fbce10442658792b1af8e7d12a59ead)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:55 INFO  AccountPage :46 - click on deoposit[[ChromeDriver: chrome on windows (6fbce10442658792b1af8e7d12a59ead)] -> xpath: //div[@ng-hide='noAccount']//button[2]]
+2024-07-02 21:07:88 INFO  AccountPage :84 - verify transaction [[ChromeDriver: chrome on windows (6fbce10442658792b1af8e7d12a59ead)] -> xpath: //span[contains(text(),'Deposit Successful')]]
